@@ -1,4 +1,4 @@
-# PemLanjut - User Management System
+# User Management System
 
 ## Description
 PemLanjut is a simple PHP-based user management system with authentication and role-based access control. It allows users to log in and access a dashboard with different views for admins and regular users. Admins can manage users by creating, updating, and deleting user accounts, including uploading profile photos. Regular users can update their own profile information.
